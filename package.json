@@ -1,0 +1,19 @@
+{
+  "name": "code_type_unbootstrap",
+  "version": "1.0.0",
+  "description": "a good start whithout bootstrap",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass --watch ./partials/style.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikingsurfeur/code_type_unbootstrap.git"
+  },
+  "author": "David Bouscarle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikingsurfeur/code_type_unbootstrap/issues"
+  },
+  "homepage": "https://github.com/vikingsurfeur/code_type_unbootstrap#readme"
+}
